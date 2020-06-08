@@ -16,7 +16,7 @@
   * [IOS原理](autotest/web)
 
 * [语言类](autotest/home)
-  * [java]
+  java
     * [面向对象](java/oop)
   * [python](autotest/web)
   * [js](autotest/web)
